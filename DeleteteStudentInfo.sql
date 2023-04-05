@@ -14,4 +14,4 @@ go
 
 delete dbo.Students where StudentRollNum = 3
 
-exec dbo.DeleteteStudentInfo 1
+exec dbo.DeleteteStudentInfo 2

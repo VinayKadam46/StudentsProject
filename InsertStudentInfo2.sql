@@ -1,7 +1,7 @@
 create procedure InsertStudentInfo(
-@Name varchar(50),
-@Surname varchar(50),
-@City varchar(50)
+@Name varchar(30),
+@Surname varchar(30),
+@City varchar(30)
 
 )
 as
